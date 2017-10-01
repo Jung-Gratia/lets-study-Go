@@ -5,6 +5,7 @@ CERT-IS(부경대학교 보안동아리) 내부 Go언어 스터디
 ## 참여자
 
 - letsget23 (letsget23@gmail.com)
+- pip2150 (dhrcogns2002@hanmail.net)
 
 ## 스터디 진행
 
